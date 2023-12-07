@@ -1,10 +1,10 @@
-[![Folke's github stats](https://github-readme-stats.vercel.app/api?username=alaidine&count_private=true&show_icons=true)](https://github.com/alaidine)
 
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alaidine&hide=php)](https://github.com/alaidine) --->
 
 ![Header](./assets/github-header-image.png)
 
 # Welcome to my GitHub page
+[![Folke's github stats](https://github-readme-stats.vercel.app/api?username=alaidine&count_private=true&show_icons=true)](https://github.com/alaidine)
 
 #### Hey there 👋
 
