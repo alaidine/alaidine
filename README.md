@@ -23,5 +23,7 @@
 
 ### 📊 Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alaidine&show_icons=true&locale=en&theme=tokyonight" alt="alaidine" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=alaidine&show_icons=true&theme=tokyonight)
 
