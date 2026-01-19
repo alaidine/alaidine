@@ -1,22 +1,9 @@
-<h1 align="center">Hi 👋, I'm Alaidine</h1>
-<h3 align="center">A passionate developer, pentester from Reunion</h3>
-
-
-<div align="center">
-  <p align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=500&pause=500&width=435&lines=The+joy+is+in+the+thrill+of+the+hunt;........................................................%2C" alt="Typing SVG" />
-    </a>
-  </p>
-</div>
-
-
-
-- 💬 Ask me about **c, c++ and python**
+<h1 align="center">Hi 👋, I'm Aalaaïddine</h1>
+<h3 align="center">A passionate developer, from Reunion Island</h3>
 
 - 📫 How to reach me **aa.alimlinde@gmail.com**
 
-- 👩🏻‍💻 Software Engineer, Pentester
+- 👩🏻‍💻 Game Developer, Game Engine Developer
 
 - 👩🏻‍🎓 Currently studying at Epitech
 
